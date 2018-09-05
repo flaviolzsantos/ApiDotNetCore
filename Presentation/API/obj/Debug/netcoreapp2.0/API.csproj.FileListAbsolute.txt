@@ -1,0 +1,16 @@
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\bin\Debug\netcoreapp2.0\API.dll
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\obj\Debug\netcoreapp2.0\API.dll
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\obj\Debug\netcoreapp2.0\API.pdb
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\bin\Debug\netcoreapp2.0\Modelo.dll
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\bin\Debug\netcoreapp2.0\Repositorio.dll
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\bin\Debug\netcoreapp2.0\Modelo.pdb
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\bin\Debug\netcoreapp2.0\Repositorio.pdb
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+C:\projetos\LojaMDroppa\ApiCore\Presentation\API\obj\Debug\netcoreapp2.0\API.csproj.CopyComplete

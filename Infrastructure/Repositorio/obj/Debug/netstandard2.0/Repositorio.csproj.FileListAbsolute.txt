@@ -1,0 +1,12 @@
+C:\projetos\LojaMDroppa\ApiCore\Infrastructure\Repositorio\obj\Debug\netstandard2.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\projetos\LojaMDroppa\ApiCore\Infrastructure\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfoInputs.cache
+C:\projetos\LojaMDroppa\ApiCore\Infrastructure\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfo.cs
+C:\projetos\LojaMDroppa\ApiCore\Infrastructure\Repositorio\bin\Debug\netstandard2.0\Repositorio.deps.json
+C:\projetos\LojaMDroppa\ApiCore\Infrastructure\Repositorio\bin\Debug\netstandard2.0\Repositorio.dll
+C:\projetos\LojaMDroppa\ApiCore\Infrastructure\Repositorio\bin\Debug\netstandard2.0\Repositorio.pdb
+C:\projetos\LojaMDroppa\ApiCore\Infrastructure\Repositorio\bin\Debug\netstandard2.0\Modelo.dll
+C:\projetos\LojaMDroppa\ApiCore\Infrastructure\Repositorio\bin\Debug\netstandard2.0\Modelo.pdb
+C:\projetos\LojaMDroppa\ApiCore\Infrastructure\Repositorio\obj\Debug\netstandard2.0\Repositorio.csproj.CopyComplete
+C:\projetos\LojaMDroppa\ApiCore\Infrastructure\Repositorio\obj\Debug\netstandard2.0\Repositorio.dll
+C:\projetos\LojaMDroppa\ApiCore\Infrastructure\Repositorio\obj\Debug\netstandard2.0\Repositorio.pdb
+C:\projetos\LojaMDroppa\ApiCore\Infrastructure\Repositorio\obj\Debug\netstandard2.0\Repositorio.csprojResolveAssemblyReference.cache

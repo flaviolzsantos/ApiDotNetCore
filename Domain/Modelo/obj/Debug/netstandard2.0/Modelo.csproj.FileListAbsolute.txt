@@ -1,0 +1,17 @@
+C:\projetos\LojaMDroppa\ApiCore\Model\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\projetos\LojaMDroppa\ApiCore\Model\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\projetos\LojaMDroppa\ApiCore\Model\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\projetos\LojaMDroppa\ApiCore\Model\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\projetos\LojaMDroppa\ApiCore\Model\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\projetos\LojaMDroppa\ApiCore\Model\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\projetos\LojaMDroppa\ApiCore\Model\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\projetos\LojaMDroppa\ApiCore\Model\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\projetos\LojaMDroppa\ApiCore\Domain\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\projetos\LojaMDroppa\ApiCore\Domain\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\projetos\LojaMDroppa\ApiCore\Domain\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\projetos\LojaMDroppa\ApiCore\Domain\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\projetos\LojaMDroppa\ApiCore\Domain\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\projetos\LojaMDroppa\ApiCore\Domain\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\projetos\LojaMDroppa\ApiCore\Domain\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\projetos\LojaMDroppa\ApiCore\Domain\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\projetos\LojaMDroppa\ApiCore\Domain\Modelo\obj\Debug\netstandard2.0\Modelo.csprojResolveAssemblyReference.cache
